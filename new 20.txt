@@ -1,0 +1,9 @@
+ST00012|Name=МУП «ЖКХ» ЗАТО г. Радужный|PersonalAcc=40702810700310000106|BankName=ПАО "МИНБАНК"|BIC=044525600|CorrespAcc=30101810300000000600|Sum=429691|PayeeINN=3308001884|KPP=330801001|LastName=Пичугина|FirstName=Екатерина|MiddleName=Олеговна|PayerAddress=Радужный, 1 квартал,д. 14, кв. 017|PersAcc=11400170
+
+ST00012|Name=МУП «ЖКХ» ЗАТО г. Радужный|
+PersonalAcc=40702810700310000106|
+BankName=ПАО "МИНБАНК"|
+BIC=044525600|CorrespAcc=30101810300000000600|
+Sum=429691|
+PayeeINN=3308001884|
+KPP=330801001|LastName=Пичугина|FirstName=Екатерина|MiddleName=Олеговна|PayerAddress=Радужный, 1 квартал,д. 14, кв. 017|PersAcc=11400170
